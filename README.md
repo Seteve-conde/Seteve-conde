@@ -1,6 +1,6 @@
 ### Olá eu me chamo Seteve Conde 👋
--🔭 Eu estou atualmente trabalhando como Analista desenvolvedor .NET. <br>
--🌱 Estudando design patterns. <br>
+-🔭 Eu estou atualmente trabalhando como Analista desenvolvedor .NET <br>
+-🌱 Estudando design patterns e Inteligência Artificial <br>
 -👯 Gosto do trabalho colaborativo e dividir conhecimentos.
 
 [![Portfolio](https://img.shields.io/website?label=My-Portfolio.com&style=for-the-badge&url=https://My-Portfolio.com)](https://seteve-conde.github.io/Portf/)
