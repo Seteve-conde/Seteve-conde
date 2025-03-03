@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/website?label=My-Portfolio.com&style=for-the-badge&url=https://My-Portfolio.com)](https://seteve-conde.github.io/Portf/)
 <div>
   <a href="https://github.com/Seteve-conde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seteve-conde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seteve-conde&show_icons=true&theme=dark&include_all_commits=true&count_private=true,prs_merged,prs_merged_percentage"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seteve-conde&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
